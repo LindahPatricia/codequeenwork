@@ -1,0 +1,44 @@
+.section1{
+    border: 5px green solid;
+    height: 200px;
+    width: 200px;
+    margin:auto;
+
+}
+#layer1{
+    height: 200px;
+    width: 200px;
+    border-top: 10px dotted red;
+    border-bottom: 5px blueviolet;
+    border-left: purple 15px double;
+    border-right: yellow 10px solid;
+}
+.box1{
+    border-radius: 10px;
+    border: 3px red solid;
+    width: 600px;
+    height: 600px;
+    margin: 50px 40px;
+    box-shadow: 50px 50px grey;
+
+}
+#box2{
+    width: 400px;
+    height: 400px;
+    margin: 80px;
+    border: 20px hotpink solid;
+    background-color: aliceblue;
+    border-top-right-radius: 50px green;
+    border-top-color: cadetblue;
+    box-shadow: 20px 20px 10px pink;
+
+}
+.box3{
+    background-color: black;
+    border: 5px limegreen solid;
+    height: 200px;
+    width: 200px;
+    margin: 100px;
+    border-radius: 50%;
+    box-shadow: 20px 20px 20px 50px hotpink;
+}
